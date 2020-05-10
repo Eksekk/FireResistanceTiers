@@ -22,7 +22,6 @@ public class Main
 	//event handler on damage taken to check for potion effect level and reduce it appropriately
 	//brewing recipe for strengthened fire resist potion
 	
-	//ikonka moda na curseforge
 	@Instance
 	public static Main instance;
 	
